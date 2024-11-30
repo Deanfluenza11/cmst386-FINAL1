@@ -1,0 +1,22 @@
+!DOCTYPE html
+html lang=en
+head
+    meta charset=UTF-8
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    meta name=keywords content=HTML5, Projects, CMST386
+    meta name=description content=Project 2 Documentation for CMST386
+    titleProject 2 Documentationtitle
+head
+body
+    header
+        h1Project 2 Documentationh1
+    header
+    main
+        pClick the link below to view my Project 2 proposal documentp
+        a href=Project_2_Proposal.pdf target=_blankView Project 2 Proposala
+    main
+    footer
+        p&copy; 2024 CMST386p
+    footer
+body
+html
